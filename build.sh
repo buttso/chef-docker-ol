@@ -1,1 +1,1 @@
-docker build -t buttso/chef4wlsol --rm=true $1 .
+docker build -t buttso/chef4wlsol $1 .
